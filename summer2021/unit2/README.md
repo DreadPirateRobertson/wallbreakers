@@ -1,19 +1,19 @@
 # Unit 2
 ## Coding exercises
 ### Hash maps and hash sets
-- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.py))
-- [x] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution](unique-morse-code-words.py))
-- [x] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution](happy-number.py))
-- [x] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution](uncommon-words-from-two-sentences.py))
+- [ ] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) ([Solution](jewels-and-stones.py))
+- [ ] [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) ([Solution](unique-morse-code-words.py))
+- [ ] [Happy Number](https://leetcode.com/problems/happy-number/) ([Solution](happy-number.py))
+- [ ] [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ([Solution](uncommon-words-from-two-sentences.py))
 - [ ] [Distribute Candies](https://leetcode.com/problems/distribute-candies/) ([Solution](distribute-candies.py))
 - [ ] [Groups of Special Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) ([Solution]())
-- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
+- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) ([Solution](intersection-of-two-arrays.py))
 - [ ] [Validate Sudoku](https://leetcode.com/problems/valid-sudoku/) ([Solution]())
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ([Solution](isomorphic-strings.py))
-- [x] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
-- [x] [Group Anagram](https://leetcode.com/problems/group-anagrams/) ([Solution](group-anagrams.py))
-- [x] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](design-hashmap.py))
-- [x] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.py))
+- [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/) ([Solution](word-pattern.py))
+- [ ] [Group Anagram](https://leetcode.com/problems/group-anagrams/) ([Solution](group-anagrams.py))
+- [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/) ([Solution](design-hashmap.py))
+- [ ] [Design Hashset](https://leetcode.com/problems/design-hashset/) ([Solution](design-hashset.py))
 - [ ] [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) ([Solution](sparse-matrix-multiplication.py))
 
 ### Multisets
@@ -22,7 +22,7 @@
 - [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) ([Solution](first-unique-character-in-a-string.py))
 - [ ] [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) ([Solution](subdomain-visit-count.py))
 - [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/) ([Solution](find-the-difference.py))
-- [x] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
+- [ ] [Most Common Word](https://leetcode.com/problems/most-common-word/) ([Solution](most-common-word.py))
 - [ ] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) ([Solution](sort-characters-by-frequency.py))
 - [ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/) ([Solution]())
 	- Note: This one has a few “clever” solutions but feel free to use a simple multiset solution.
