@@ -1,0 +1,9 @@
+#sbt
+target
+*.class
+.bsp
+.bloop
+.metals
+.vscode
+.dotty*
+project/project
