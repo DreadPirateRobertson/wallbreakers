@@ -4,7 +4,7 @@
 
 import Dependencies._
 
-ThisBuild / scalaVersion     := "3.1.0"
+ThisBuild / scalaVersion     := "3.1.1"
 
 lazy val root: Project = (project in file("."))
   .settings(
